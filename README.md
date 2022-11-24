@@ -10,7 +10,7 @@ Provides a link to your favorite thread involving your bot, an image screenshot 
 2. 3 pts for this Github Repo
 3. This number of pts for augbot making this number of valid comments
 
-'''
+```
 davidlee@Lavids-MacBook-Pro CS 40 % /us/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project04 redditbot/bot_counter.py"
 --username=augbot52
 Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
@@ -23,7 +23,7 @@ len(not_self_replies)= 717
 ========================================
 valid_comments= 830
 ========================================
-'''
+```
 
 5. My bot.submission.py file made over 200 posts to the subreddit. For the self posts, I pulled from r/WritingPrompts and for the link posts, I pulled from r/Finance. Below is a screenshot of how many posts were made in the newest 1000, but there are definitely more than this number.
 6. 
