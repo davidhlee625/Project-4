@@ -9,6 +9,7 @@ Provides a link to your favorite thread involving your bot, an image screenshot 
 1. 12 pts for completed bot.py file
 2. 3 pts for this Github Repo
 3. This number of pts for augbot making this number of valid comments
+
 '''
 davidlee@Lavids-MacBook-Pro CS 40 % /us/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project04 redditbot/bot_counter.py"
 --username=augbot52
@@ -23,6 +24,7 @@ len(not_self_replies)= 717
 valid_comments= 830
 ========================================
 '''
+
 5. My bot.submission.py file made over 200 posts to the subreddit. For the self posts, I pulled from r/WritingPrompts and for the link posts, I pulled from r/Finance. Below is a screenshot of how many posts were made in the newest 1000, but there are definitely more than this number.
 6. 
 Includes the output of running the bot_counter.py file on your bot to count how many comments you've created. The output of this command must be inside of a markdown code block (i.e. use the triple backticks notation).
