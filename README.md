@@ -27,6 +27,7 @@ valid_comments= 830
 ```
 
 5. My bot.submission.py file made over 200 posts to the subreddit. For the self posts, I pulled from r/WritingPrompts and for the link posts, I pulled from r/Finance. Below is a screenshot of how many posts were made in the newest 1000 att that time, but there are definitely more than this number. +2
+![](post_submissions.png)
 6. In my bot.py file, I define a command score to have my bot reply to the most upvoted comments. +2
 7. 
 Includes the output of running the bot_counter.py file on your bot to count how many comments you've created. The output of this command must be inside of a markdown code block (i.e. use the triple backticks notation).
