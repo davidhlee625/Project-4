@@ -26,7 +26,7 @@ valid_comments= 830
 ========================================
 ```
 
-5. My bot.submission.py file made over 200 posts to the subreddit. For the self posts, I pulled from r/WritingPrompts and for the link posts, I pulled from r/Finance. Below is a tidbit of how many posts were made in the newest 1000 submissions that time, but there are definitely more than this number. +2
+5. My `bot.submission.py` file made over 200 posts to the subreddit. For the self posts, I pulled from r/WritingPrompts and for the link posts, I pulled from r/Finance. Below is a tidbit of how many posts were made in the newest 1000 submissions that time, but there are definitely more than this number. +2
 
 
 ```
@@ -34,6 +34,6 @@ davidlee@Lavids-MacBook-Pro CS 40 % /us/local/bin/python3 "/Users/davidlee/Deskt
 Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
 total post count: 233
 ```
-6. In my bot.py file, I define a command score to have my bot reply to the most upvoted comments. +2
+6. In my `bot.py` file, I define a command score to have my bot reply to the most upvoted comments. +2
 
 Explains what you believe your score should be. Clearly state which tasks you complete/don't complete.
