@@ -62,7 +62,7 @@ valid_comments= 537
 NOTE: the number valid_comments will be used to determine your grade
 ```
 
-**bot3/augbot5**
+**`bot3.py`/augbot5**
 ```
 davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot5
 
@@ -79,7 +79,7 @@ valid_comments= 511
 NOTE: the number valid_comments will be used to determine your grade
 ```
 
-**bot4/augbot4**
+**`bot4.py`/augbot4**
 ```
 davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot4
 
@@ -96,7 +96,7 @@ valid_comments= 565
 NOTE: the number valid_comments will be used to determine your grade
 ```
 
-**bot5/augbot3**
+**`bot5.py`/augbot3**
 ```
 davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot3
 
