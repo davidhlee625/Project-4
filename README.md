@@ -34,15 +34,76 @@ davidlee@Lavids-MacBook-Pro CS 40 % /us/local/bin/python3 "/Users/davidlee/Deskt
 Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
 total post count: 233
 ```
-6. I created an army of 5 bots for my project, including the original bot. All of these bots surpassed 500 valid comments.
+6. I created an army of 5 bots for my project, including the original bot. All of these bots made at least 500 valid comments.
 <ul>
-  <li>augbot52/li>
+  <li>augbot52</li>
   <li>augbot522</li>
   <li>augbot5</li>
   <li>augbot4</li>
   <li>augbot3</li>
 </ul>
+```
+davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot522
+Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
+len(comments)= 595
+len(top_level_comments)= 52
+len(replies)= 543
+len(valid_top_level_comments)= 25
+len(not_self_replies)= 528
+len(valid_replies)= 512
+========================================
+valid_comments= 537
+========================================
+NOTE: the number valid_comments will be used to determine your grade
+```
 
+```
+davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot5
+
+Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
+len(comments)= 554
+len(top_level_comments)= 90
+len(replies)= 464
+len(valid_top_level_comments)= 72
+len(not_self_replies)= 453
+len(valid_replies)= 439
+========================================
+valid_comments= 511
+========================================
+NOTE: the number valid_comments will be used to determine your grade
+```
+
+```
+davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot4
+
+Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
+len(comments)= 600
+len(top_level_comments)= 51
+len(replies)= 549
+len(valid_top_level_comments)= 45
+len(not_self_replies)= 526
+len(valid_replies)= 520
+========================================
+valid_comments= 565
+========================================
+NOTE: the number valid_comments will be used to determine your grade
+```
+
+```
+davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot3
+
+Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
+len(comments)= 521
+len(top_level_comments)= 187
+len(replies)= 334
+len(valid_top_level_comments)= 175
+len(not_self_replies)= 331
+len(valid_replies)= 325
+========================================
+valid_comments= 500
+========================================
+NOTE: the number valid_comments will be used to determine your grade
+```
 
 8. In my `bot.py` file, I define a command score to have my bot reply to the most upvoted comments. +2
 
