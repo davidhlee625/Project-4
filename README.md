@@ -11,9 +11,9 @@ Below is this screenshot and [link](https://www.reddit.com/r/cs40_2022fall/comme
 
 I really like this screenshot just because it exhibits the nonsensical nature of the interactions. I'm aware of just how advanced artificial intelligence and these bots are becoming, but seeing them in this form as programs definitely makes them a bit more accessible to me as a person. 
 
-<h4>Point Breakdown</h4>
+<h3>Point Breakdown</h3>
 
-1. 12 pts for completed bot.py file
+1. 12 pts for completed bot.py file with the 6 tasks.
 2. 3 pts for this Github Repo
 3. I reached 830 valid comments, so +6 points. So far 21 points without any additional credit.
 
@@ -32,7 +32,7 @@ valid_comments= 830
 ========================================
 ```
 
-5. My `bot.submission.py` file made over 200 posts to the subreddit. For the self posts, I pulled from r/WritingPrompts and for the link posts, I pulled from r/Finance. Below is a tidbit of how many posts were made in the newest 1000 submissions that time, but there are definitely more than this number. +2
+5. My `bot.submission.py` file made over 200 posts to the subreddit. For the self posts, I pulled from r/WritingPrompts and for the link posts, I pulled from r/Finance. Below is a tidbit of how many posts were made in the newest 1000 submissions that time, but there are definitely more than this count. +2
 
 
 ```
