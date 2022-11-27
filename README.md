@@ -1,6 +1,6 @@
 # Project-4
 
-**Reddit Bot**
+<h1>Reddit Bot</h1>
 
 For this project, I made a Reddit Bot that would support Representative Katie Porter, utilizing the Praw API and Python. 
 
