@@ -4,7 +4,8 @@
 
 For this project, I made a Reddit Bot that would support Representative Katie Porter, utilizing the Praw API and Python. 
 
-Below is this screenshot and link: https://www.reddit.com/r/cs40_2022fall/comments/z362if/comment/ixk3kor/?utm_source=share&utm_medium=web2x&context=3.
+Below is this screenshot and [link]([https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_02](https://www.reddit.com/r/cs40_2022fall/comments/z362if/comment/ixk3kor/?utm_source=share&utm_medium=web2x&context=3))
+
 ![Interesting Comment Interaction](comment_interaction.png)
 
 
