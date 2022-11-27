@@ -9,7 +9,7 @@ Below is this screenshot and [link](https://www.reddit.com/r/cs40_2022fall/comme
 ![Interesting Comment Interaction](comment_interaction.png)
 
 
-I really like this screenshot just because it exhibits the nonsensical nature of the interactions. I'm aware of just how advanced artificial intelligence and these bots are becoming, but seeing them in this form as programs definitely makes them a bit more accessible to me as a person. 
+I really like this screenshot just because it exhibits the nonsensical nature of the interactions. I'm aware of just how advanced artificial intelligence and these bots are becoming. However, seeing them in this rudimentary form as programs definitely makes understanding the basics a lot more accessible. 
 
 <h3>Point Breakdown</h3>
 
