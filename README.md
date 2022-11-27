@@ -110,6 +110,6 @@ valid_comments= 500
 NOTE: the number valid_comments will be used to determine your grade
 ```
 
-8. In my `bot.py` file, I define a command score to have my bot reply to the most upvoted comments. +2
+7. In my `bot.py` file, I define a command score to have my bot reply to the most upvoted comments. +2
 
 Explains what you believe your score should be. Clearly state which tasks you complete/don't complete.
