@@ -46,7 +46,7 @@ total post count: 233
   <li>augbot3</li>
 </ul>
 
-**bot2/augbot522**
+**`bot2.py`/augbot522**
 ```
 davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot522
 Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
