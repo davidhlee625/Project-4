@@ -40,7 +40,7 @@ davidlee@Lavids-MacBook-Pro CS 40 % /us/local/bin/python3 "/Users/davidlee/Deskt
 Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
 total post count: 233
 ```
-6. I created an army of 5 bots for my project, including the original bot. All of these bots made at least 500 valid comments.
+6. I created an army of 5 bots for my project, including the original bot. All of these bots made at least 500 valid comments. +2 pts
 <ul>
   <li>augbot52</li>
   <li>augbot522</li>
@@ -116,6 +116,6 @@ valid_comments= 569
 NOTE: the number valid_comments will be used to determine your grade
 ```
 
-7. In my `bot.py` file, I define a command score to have my bot reply to the most upvoted comments. +2
+7. In my `bot.py` file, I define a command score to have my bot reply to the most upvoted comments. +2 pts
 
 Explains what you believe your score should be. Clearly state which tasks you complete/don't complete.
