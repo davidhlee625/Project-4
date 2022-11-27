@@ -5,7 +5,7 @@
 For this project, I made a Reddit Bot that would support Representative Katie Porter, utilizing the Praw API and Python. 
 
 Below is this screenshot and link: https://www.reddit.com/r/cs40_2022fall/comments/z362if/comment/ixk3kor/?utm_source=share&utm_medium=web2x&context=3.
-![alt text](comment interaction.png "Comment Interaction")
+![Interesting Comment Interaction](comment interaction.png)
 I really like this screenshot just because it exhibits the nonsensical nature of the interactions. I'm aware of just how advanced artificial intelligence and these bots are becoming, but seeing them in this form as programs definitely makes them a bit more accessible to me as a person. 
 
 Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it. (Below each comment is a button labeled permalink that lets you link to a comment.)
