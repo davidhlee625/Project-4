@@ -43,6 +43,7 @@ total post count: 233
   <li>augbot3</li>
 </ul>
 
+**bot2/augbot522**
 ```
 davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot522
 Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
@@ -58,6 +59,7 @@ valid_comments= 537
 NOTE: the number valid_comments will be used to determine your grade
 ```
 
+**bot3/augbot5**
 ```
 davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot5
 
@@ -74,6 +76,7 @@ valid_comments= 511
 NOTE: the number valid_comments will be used to determine your grade
 ```
 
+**bot4/augbot4**
 ```
 davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot4
 
@@ -90,6 +93,7 @@ valid_comments= 565
 NOTE: the number valid_comments will be used to determine your grade
 ```
 
+**bot5/augbot3**
 ```
 davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot3
 
