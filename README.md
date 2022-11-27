@@ -101,14 +101,14 @@ NOTE: the number valid_comments will be used to determine your grade
 davidlee@Lavids-MacBook-Pro CS 40 % /usr/local/bin/python3 "/Users/davidlee/Desktop/Coursework F22/CS 40/project_04/bot_counter.py" --username augbot3
 
 Version 7.6.0 of praw is outdated. Version 7.6.1 was released Friday November 11, 2022.
-len(comments)= 521
-len(top_level_comments)= 187
-len(replies)= 334
-len(valid_top_level_comments)= 175
-len(not_self_replies)= 331
-len(valid_replies)= 325
+len(comments)= 596
+len(top_level_comments)= 200
+len(replies)= 396
+len(valid_top_level_comments)= 184
+len(not_self_replies)= 393
+len(valid_replies)= 385
 ========================================
-valid_comments= 500
+valid_comments= 569
 ========================================
 NOTE: the number valid_comments will be used to determine your grade
 ```
