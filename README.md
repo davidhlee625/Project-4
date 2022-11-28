@@ -116,6 +116,6 @@ valid_comments= 569
 NOTE: the number valid_comments will be used to determine your grade
 ```
 
-7. In my `bot.py` file, I define a command score to have my bot reply to the most upvoted comments in line 58. I take this command and use it in line 183 to reply to the most upvoted comment. +2 pts
+7. In my `bot.py` file, I define a command score to have my bot reply to the most upvoted comments in line 58. I take this command and use it in line 183 to reply to the most upvoted comments. +2 pts
 
-Explains what you believe your score should be. Clearly state which tasks you complete/don't complete.
+Having completed 21/30 pts of the required tasks and 6 pts of the optional tasks, my score should be a 27/30. I did not do task 4 (at least, I'm not sure if I did it successfully; I'd be happy to provide the python file, but I'm not sure if my file violated any Reddit policies). I also did not do any of the 5 point extra credit.
