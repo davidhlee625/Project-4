@@ -13,7 +13,7 @@ I really like this screenshot just because it exhibits the nonsensical nature of
 
 <h3>Point Breakdown</h3>
 
-1. 12 pts for completed bot.py file with the 6 tasks.
+1. 12 pts for completed `bot.py` file with the 6 tasks.
 2. 3 pts for this Github Repo
 3. I reached 830 valid comments, so +6 points. So far 21 points without any additional credit.
 
